@@ -1,6 +1,6 @@
 # NLP Chatbot Application
 
-![NLP Chatbot](https://raw.githubusercontent.com/Ismat-Samadov/chatbot_app/main/static/chatbot-banner.png)
+![NLP Chatbot](https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hhdGJvdHxlbnwwfHwwfHx8MA%3D%3D)
 
 ## Project Overview
 
